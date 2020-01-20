@@ -224,7 +224,7 @@ std_abs = {
 ### Data
 
 table_columns = [
-    'composition', 'vidro', 'Tg', 'Tx', 'Tc', 'Tl', 'logXs', 'logNs', 'Umax',
+    'composition', 'glass', 'Tg', 'Tx', 'Tc', 'Tl', 'logXs', 'logNs', 'Umax',
     'TUmax', 'ninf', 'A', 'T0'
 ]
 
